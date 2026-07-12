@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img">
+  <title>Krill Hosting Colorado — square badge (teal and warm gold)</title>
+  <desc>Square app icon of the Flatirons under a warm-gold moon in dark teal, with soft curved slabs, for favicons and tabs.</desc>
+  <defs>
+    <linearGradient id="sSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06202a"/><stop offset="0.55" stop-color="#0d3a42"/><stop offset="1" stop-color="#134a52"/>
+    </linearGradient>
+    <radialGradient id="sMoon" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#fff0c8"/><stop offset="1" stop-color="#eaa23a"/></radialGradient>
+    <linearGradient id="sAcc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8c95c"/><stop offset="1" stop-color="#e0912a"/></linearGradient>
+    <clipPath id="sClip"><rect x="16" y="16" width="480" height="480" rx="112"/></clipPath>
+  </defs>
+  <g clip-path="url(#sClip)">
+    <rect x="16" y="16" width="480" height="480" fill="url(#sSky)"/>
+    <circle cx="360" cy="168" r="86" fill="#eeb24a" opacity="0.16"/>
+    <circle cx="360" cy="168" r="58" fill="url(#sMoon)"/>
+    <circle cx="338" cy="152" r="58" fill="#0d3a42" opacity="0.3"/>
+    <g fill="#f8d488">
+      <circle cx="120" cy="120" r="4"/><circle cx="188" cy="96" r="2.6"/><circle cx="252" cy="150" r="3.2"/>
+      <circle cx="150" cy="196" r="2.4"/><circle cx="98" cy="240" r="3"/><circle cx="228" cy="228" r="2.2"/>
+    </g>
+    <path d="M176 500 C 226 384 272 288 296 236 Q 306 214 320 240 C 344 322 372 420 400 500 Z" fill="#0a2c33"/>
+    <path d="M110 500 C 150 408 186 340 208 300 Q 216 286 228 306 C 250 372 276 432 300 500 Z" fill="#0a2c33"/>
+    <g fill="none" stroke="url(#sAcc)" stroke-linecap="round">
+      <path d="M304 244 C 268 358 214 452 176 500" stroke-width="16" opacity="0.85"/>
+      <path d="M214 306 C 184 388 150 452 122 500" stroke-width="12" opacity="0.6"/>
+    </g>
+    <rect x="16" y="456" width="480" height="40" fill="#061a1f"/>
+  </g>
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="none" stroke="url(#sAcc)" stroke-width="7"/>
+</svg>

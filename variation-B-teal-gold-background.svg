@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice" role="img">
+  <title>Krill Hosting Colorado — Cool alpine teal and warm gold variation background</title>
+  <desc>Flat illustrated Flatirons at dusk in dark teal with a radiant warm-gold moon, flowing curved ridgelines and soft gold rim light.</desc>
+  <defs>
+    <linearGradient id="bSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06202a"/><stop offset="0.4" stop-color="#0a2f38"/><stop offset="0.72" stop-color="#0f4048"/><stop offset="1" stop-color="#155158"/>
+    </linearGradient>
+    <radialGradient id="bMoon" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fff0c8"/><stop offset="0.55" stop-color="#f8ca6a"/><stop offset="1" stop-color="#eaa23a"/>
+    </radialGradient>
+    <linearGradient id="bR1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e6a70"/><stop offset="1" stop-color="#124a52"/></linearGradient>
+    <linearGradient id="bR2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#13444c"/><stop offset="1" stop-color="#0c2e35"/></linearGradient>
+    <linearGradient id="bR3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b2a30"/><stop offset="1" stop-color="#061a1f"/></linearGradient>
+    <linearGradient id="bSlab" x1="0" y1="0" x2="1" y2="0.4"><stop offset="0" stop-color="#12454d"/><stop offset="1" stop-color="#0a2c33"/></linearGradient>
+    <linearGradient id="bAcc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8c95c"/><stop offset="1" stop-color="#e0912a"/></linearGradient>
+    <linearGradient id="bVign" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04141a" stop-opacity="0.35"/><stop offset="0.45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#04141a" stop-opacity="0.62"/></linearGradient>
+  </defs>
+
+  <rect width="1920" height="1080" fill="url(#bSky)"/>
+
+  <g fill="#f8d488">
+    <circle cx="200" cy="120" r="2.4"/><circle cx="420" cy="80" r="1.6"/><circle cx="650" cy="150" r="2"/>
+    <circle cx="300" cy="240" r="1.5"/><circle cx="520" cy="300" r="1.4"/><circle cx="120" cy="330" r="1.8"/>
+    <circle cx="1500" cy="110" r="2.2"/><circle cx="1720" cy="180" r="1.6"/><circle cx="1850" cy="90" r="1.5"/>
+    <circle cx="800" cy="90" r="1.5"/><circle cx="1180" cy="140" r="1.7"/><circle cx="1360" cy="70" r="1.4"/>
+  </g>
+
+  <circle cx="1050" cy="540" r="350" fill="#eeb24a" opacity="0.09"/>
+  <circle cx="1050" cy="540" r="250" fill="#eeb24a" opacity="0.13"/>
+  <circle cx="1050" cy="540" r="180" fill="#f4c661" opacity="0.24"/>
+  <circle cx="1050" cy="540" r="125" fill="url(#bMoon)"/>
+  <circle cx="1013" cy="520" r="125" fill="#0a2f38" opacity="0.26"/>
+
+  <path d="M0 660 C 160 600 300 590 440 640 C 580 690 700 700 840 620 C 980 545 1120 560 1260 650 C 1400 720 1560 640 1720 590 C 1810 562 1870 575 1920 600 L1920 1080 L0 1080 Z" fill="url(#bR1)"/>
+
+  <g>
+    <path d="M775 1085 C 880 820 958 620 1002 498 Q 1011 476 1023 500 C 1072 640 1112 852 1162 1085 Z" fill="url(#bSlab)"/>
+    <path d="M930 1085 C 1030 840 1120 600 1152 528 Q 1161 508 1172 530 C 1215 700 1258 880 1302 1085 Z" fill="url(#bSlab)"/>
+    <path d="M1080 1085 C 1170 850 1260 620 1294 566 Q 1302 548 1312 568 C 1350 760 1388 900 1422 1085 Z" fill="url(#bSlab)"/>
+    <g fill="none" stroke="url(#bAcc)" stroke-linecap="round">
+      <path d="M1008 508 C 964 636 886 842 806 1085" stroke-width="16" opacity="0.8"/>
+      <path d="M1158 538 C 1116 668 1044 872 958 1085" stroke-width="14" opacity="0.62"/>
+      <path d="M1300 576 C 1262 720 1196 902 1114 1085" stroke-width="12" opacity="0.46"/>
+    </g>
+  </g>
+
+  <path d="M0 830 C 180 760 360 745 540 800 C 720 855 880 860 1040 780 C 1200 705 1360 720 1540 800 C 1660 852 1800 815 1920 800 L1920 1080 L0 1080 Z" fill="url(#bR2)"/>
+  <path d="M0 960 C 200 900 420 895 640 945 C 860 992 1040 985 1240 930 C 1440 878 1620 905 1800 945 C 1860 958 1900 958 1920 955 L1920 1080 L0 1080 Z" fill="url(#bR3)"/>
+
+  <path d="M0 1030 C 140 980 300 984 440 1020 C 560 1050 640 1052 720 1035 C 600 1058 300 1060 0 1080 Z" fill="#061a1f" opacity="0.9"/>
+  <path d="M1920 1025 C 1780 978 1620 982 1500 1018 C 1620 1052 1800 1058 1920 1075 Z" fill="#061a1f" opacity="0.9"/>
+
+  <rect width="1920" height="1080" fill="url(#bVign)"/>
+</svg>
